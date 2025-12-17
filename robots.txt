@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://www.giftbasketindia.in/sitemap.xml
+
+# Crawl delay (optional)
+Crawl-delay: 1
+
+# Disallow paths (if any in future)
+# Disallow: /admin/
+# Disallow: /private/
